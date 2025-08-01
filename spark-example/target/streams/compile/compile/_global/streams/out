@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0mC:\DATA\SCALA\spark-example\src\main\scala\FirstSparkApp.scala:72:31: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Any[0m
+[0m[[0m[31merror[0m] [0m[0m required: Double, Float, BigDecimal[0m
+[0m[[0m[31merror[0m] [0m[0mprintln(f"Average Salary: $$${avgSalary}%.2f")[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

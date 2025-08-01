@@ -1,1 +1,33 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: C:\DATA\SCALA\spark-example\target\scala-2.13\sparkexample_2.13-1.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\DATA\SCALA\spark-example\target\scala-2.13\sparkexample_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\DATA\SCALA\spark-example\target\scala-2.13\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\packt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\DATA\SCALA\spark-example\target\scala-2.13\classes\com\packt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\packt\descala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\DATA\SCALA\spark-example\target\scala-2.13\classes\com\packt\descala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\packt\descala\scalaplayground[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\DATA\SCALA\spark-example\target\scala-2.13\classes\com\packt\descala\scalaplayground[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\packt\descala\scalaplayground\Employee$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\DATA\SCALA\spark-example\target\scala-2.13\classes\com\packt\descala\scalaplayground\Employee$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\packt\descala\scalaplayground\Employee.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\DATA\SCALA\spark-example\target\scala-2.13\classes\com\packt\descala\scalaplayground\Employee.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\packt\descala\scalaplayground\FirstSparkApp$$typecreator10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\DATA\SCALA\spark-example\target\scala-2.13\classes\com\packt\descala\scalaplayground\FirstSparkApp$$typecreator10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\packt\descala\scalaplayground\FirstSparkApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\DATA\SCALA\spark-example\target\scala-2.13\classes\com\packt\descala\scalaplayground\FirstSparkApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\packt\descala\scalaplayground\FirstSparkApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\DATA\SCALA\spark-example\target\scala-2.13\classes\com\packt\descala\scalaplayground\FirstSparkApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\packt\descala\scalaplayground\FirstSparkApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\DATA\SCALA\spark-example\target\scala-2.13\classes\com\packt\descala\scalaplayground\FirstSparkApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	log4j2.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\DATA\SCALA\spark-example\target\scala-2.13\classes\log4j2.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkExample$$typecreator10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\DATA\SCALA\spark-example\target\scala-2.13\classes\SparkExample$$typecreator10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\DATA\SCALA\spark-example\target\scala-2.13\classes\SparkExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkExample$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\DATA\SCALA\spark-example\target\scala-2.13\classes\SparkExample$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\DATA\SCALA\spark-example\target\scala-2.13\classes\SparkExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
