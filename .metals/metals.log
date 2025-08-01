@@ -1,0 +1,763 @@
+2025.07.28 11:37:05 INFO  Started: Metals version 1.6.0 in folders 'C:\DATA\SCALA' for client Visual Studio Code 1.102.1.
+2025.07.28 11:37:06 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jul 28, 2025 11:37:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2025.07.28 11:37:18 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jul 28, 2025 11:37:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Jul 28, 2025 11:37:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2025.07.28 11:37:18 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala
+2025.07.28 11:37:18 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:37:18 INFO  Attempting to connect to the build server...
+2025.07.28 11:37:18 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:37:18 INFO  No running Bloop server found, starting one.
+2025.07.28 11:37:18 INFO  no build target found for C:\DATA\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:37:18 INFO  no build target found for C:\DATA\SCALA\hello-world\project\metals.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:37:19 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:37:21 INFO  no build target found for C:\DATA\SCALA\hello-world\project\project\metals.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:37:30 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:37:39 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:37:43 INFO  Starting compilation server
+2025.07.28 11:37:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\DATA\SCALA\.metals\bsp.trace.json or C:\Users\dingo\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.07.28 11:37:45 INFO  time: Connected to build server in 26s
+2025.07.28 11:37:44 INFO  Connected to Build server: Bloop v2.0.10
+2025.07.28 11:37:45 INFO  Created report: Optional.empty
+2025.07.28 11:37:45 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.07.28 11:37:45 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.07.28 11:37:45 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.07.28 11:37:45 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.07.28 11:37:45 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.07.28 11:37:44 INFO  time: Imported build in 0.12s
+2025.07.28 11:37:56 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala
+2025.07.28 11:37:56 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:37:56 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:37:56 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:37:59 INFO  time: indexed workspace in 13s
+2025.07.28 11:37:59 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala
+2025.07.28 11:37:59 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala
+2025.07.28 11:37:59 WARN  no build target for: C:\DATA\SCALA\hello-world\project\project\metals.sbt
+2025.07.28 11:37:59 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala
+2025.07.28 11:37:59 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala
+2025.07.28 11:37:59 WARN  no build target for: C:\DATA\SCALA\hello-world\build.sbt
+2025.07.28 11:37:59 WARN  no build target for: C:\DATA\SCALA\hello-world\project\metals.sbt
+2025.07.28 11:37:59 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:37:59 INFO  no build target found for C:\DATA\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:37:59 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:37:59 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:37:59 INFO  no build target found for C:\DATA\SCALA\hello-world\project\project\metals.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:37:59 INFO  no build target found for C:\DATA\SCALA\hello-world\project\metals.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:37:59 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:39:12 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:41:13 INFO  Shutting down server
+2025.07.28 11:41:13 INFO  shutting down Metals
+2025.07.28 11:41:13 INFO  Shut down connection with build server.
+2025.07.28 11:41:13 INFO  Exiting server
+2025.07.28 11:41:25 INFO  Started: Metals version 1.6.0 in folders 'C:\DATA\SCALA' for client Visual Studio Code 1.102.2.
+2025.07.28 11:41:29 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jul 28, 2025 11:41:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2025.07.28 11:41:30 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:41:30 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:41:30 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:41:30 INFO  Attempting to connect to the build server...
+2025.07.28 11:41:30 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:41:30 INFO  Found a Bloop server running
+Jul 28, 2025 11:41:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Jul 28, 2025 11:41:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2025.07.28 11:41:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\DATA\SCALA\.metals\bsp.trace.json or C:\Users\dingo\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.07.28 11:41:31 INFO  time: Connected to build server in 0.3s
+2025.07.28 11:41:31 INFO  Connected to Build server: Bloop v2.0.10
+2025.07.28 11:41:31 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.07.28 11:41:31 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.07.28 11:41:31 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.07.28 11:41:31 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.07.28 11:41:31 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.07.28 11:41:31 INFO  time: Imported build in 0.15s
+2025.07.28 11:41:37 INFO  time: indexed workspace in 6.14s
+2025.07.28 11:41:37 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala
+2025.07.28 11:41:37 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala
+2025.07.28 11:41:37 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:41:37 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala
+2025.07.28 11:41:37 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala
+2025.07.28 11:41:37 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:41:38 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:41:39 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:41:39 INFO  time: code lens generation in 1.57s
+2025.07.28 11:41:39 INFO  time: code lens generation in 1.57s
+2025.07.28 11:43:13 INFO  no build target found for C:\DATA\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:43:13 WARN  no build target for: C:\DATA\SCALA\hello-world\build.sbt
+2025.07.28 11:43:13 INFO  no build target found for C:\DATA\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:43:13 WARN  Could not find semantic tokens for: file:///C:/DATA/SCALA/hello-world/build.sbt
+2025.07.28 11:43:13 INFO  no build target found for C:\DATA\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:43:13 WARN  Could not find semantic tokens for: file:///C:/DATA/SCALA/hello-world/build.sbt
+2025.07.28 11:43:13 INFO  no build target found for C:\DATA\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:43:57 WARN  no build target for: C:\DATA\SCALA\hello-world\src\main\scala\Main.scala
+2025.07.28 11:43:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:43:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:43:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:43:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:43:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:29 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:35 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:50 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:50 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:50 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:51 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:51 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:51 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:53 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:53 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:53 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:55 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:55 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:44:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:00 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:00 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:00 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:00 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:03 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:03 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:03 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:03 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:03 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:05 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:05 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:05 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:05 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:05 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:05 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:05 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:05 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jul 28, 2025 11:45:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 124
+2025.07.28 11:45:06 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:06 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:06 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:06 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:07 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:07 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:07 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:07 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:09 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:09 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:10 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:10 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:09 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:09 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:10 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:10 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:11 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:11 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:11 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:10 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:12 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:12 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:12 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:12 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:13 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:12 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:13 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:15 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:15 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:15 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:15 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:15 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:16 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:16 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:16 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:16 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:17 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:16 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:19 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:19 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:19 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:19 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:19 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:19 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:19 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:19 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:20 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:20 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:20 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:20 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:20 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:22 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:22 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:22 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:22 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:23 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:22 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:23 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:23 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:22 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:23 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:23 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:24 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:23 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:23 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:24 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:23 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:24 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:23 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:23 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:24 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:24 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:24 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:24 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:25 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:24 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:28 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:31 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:32 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:32 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:31 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:31 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:32 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:32 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:34 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:34 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:36 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:36 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:36 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:36 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:36 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jul 28, 2025 11:45:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 320
+2025.07.28 11:45:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:38 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:38 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:38 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:38 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:38 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:38 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:38 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:39 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:38 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:39 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:44 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:44 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:44 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:44 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:45 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:45 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:45 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:50 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:50 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:50 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:51 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:51 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:51 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:51 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:52 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:51 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:51 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:51 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:52 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:51 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:52 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:52 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:52 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:52 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:53 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:52 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:53 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:53 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:52 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:55 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:55 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:55 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:55 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:55 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:55 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:55 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:56 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:56 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:56 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:56 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:56 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:56 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:56 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:45:56 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:00 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:00 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:00 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:00 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:00 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:00 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:01 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:00 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:01 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:01 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:01 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:01 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:01 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:01 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:01 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:02 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:01 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:02 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:03 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:03 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:03 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:03 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:03 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:04 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:04 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:05 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:05 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:05 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:05 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:05 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:06 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:06 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:06 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:06 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:08 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:08 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:08 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:08 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:08 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:10 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:10 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:10 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:10 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:10 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:10 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:10 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:10 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:11 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:11 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:10 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:12 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:12 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:12 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:12 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:12 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:12 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:12 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:12 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:13 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:13 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:12 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:13 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:13 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:13 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:13 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:13 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:13 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:13 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:14 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:13 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:13 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:15 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:15 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:15 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:15 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:15 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:16 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:16 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:34 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:34 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:46:34 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:29 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:29 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:29 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:29 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:29 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:29 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:30 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:30 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:29 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:29 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:30 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:30 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:34 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:34 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:36 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:36 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:38 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:38 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:51 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:51 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jul 28, 2025 11:47:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 683
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jul 28, 2025 11:47:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 693
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jul 28, 2025 11:47:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 729
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:47:59 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:00 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:00 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:12 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:49 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:49 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:50 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:50 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:50 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:53 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:53 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:53 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:53 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:53 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:53 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:53 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:53 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:55 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:54 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:55 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:48:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:50:01 WARN  no build target for: C:\DATA\SCALA\hello-world\src\main\scala\Main.scala
+2025.07.28 11:50:01 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:50:01 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:50:01 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:50:01 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:50:01 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:50:28 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:50:28 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:54:06 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:54:06 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:54:06 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:54:06 WARN  no build target for: C:\DATA\SCALA\hello-world\src\main\scala\Main.scala
+2025.07.28 11:54:06 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:54:06 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 11:55:03 WARN  no build target for: C:\DATA\SCALA\hello-world\src\main\scala\Main.scala
+2025.07.28 11:55:03 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 12:02:25 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 14:42:10 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 14:42:10 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 14:42:10 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 14:57:12 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 14:57:12 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.28 14:57:12 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jul 28, 2025 2:57:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 842
+2025.07.28 18:14:02 INFO  Shutting down server
+2025.07.28 18:14:02 INFO  shutting down Metals
+2025.07.28 18:14:02 INFO  Shut down connection with build server.
+2025.07.28 18:14:02 INFO  Exiting server
+2025.08.01 11:52:00 INFO  Started: Metals version 1.6.0 in folders 'C:\DATA\SCALA' for client Visual Studio Code 1.102.2.
+2025.08.01 11:52:02 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:09 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:09 INFO  Attempting to connect to the build server...
+2025.08.01 11:52:09 INFO  No running Bloop server found, starting one.
+2025.08.01 11:52:11 INFO  Starting compilation server
+2025.08.01 11:52:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\DATA\SCALA\.metals\bsp.trace.json or C:\Users\dingo\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.08.01 11:52:13 INFO  time: Connected to build server in 4.37s
+2025.08.01 11:52:13 INFO  Connected to Build server: Bloop v2.0.10
+2025.08.01 11:52:13 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.08.01 11:52:13 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.08.01 11:52:13 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.08.01 11:52:13 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.08.01 11:52:13 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.08.01 11:52:13 INFO  time: Imported build in 0.12s
+2025.08.01 11:52:17 INFO  time: indexed workspace in 4.09s
+2025.08.01 11:52:17 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala
+2025.08.01 11:52:17 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala
+2025.08.01 11:52:17 WARN  no build target for: C:\DATA\SCALA\hello-world\src\main\scala\Main.scala
+2025.08.01 11:52:17 WARN  no build target for: C:\DATA\SCALA\hello-world\build.sbt
+2025.08.01 11:52:17 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala
+2025.08.01 11:52:17 WARN  no build target for: C:\DATA\SCALA\hello-world\src\main\scala\Main.scala
+2025.08.01 11:52:17 WARN  no build target for: C:\DATA\SCALA\hello-world\build.sbt
+2025.08.01 11:52:17 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala
+2025.08.01 11:52:17 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:18 INFO  no build target found for C:\DATA\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:18 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:19 INFO  time: code lens generation in 1.19s
+2025.08.01 11:52:19 INFO  time: code lens generation in 1.18s
+2025.08.01 11:52:19 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:21 WARN  no build target for: C:\DATA\SCALA\hello-world\src\main\scala\Main.scala
+2025.08.01 11:52:21 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:21 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:21 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Aug 01, 2025 11:52:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+2025.08.01 11:52:34 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:34 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:34 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:34 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:34 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:34 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Aug 01, 2025 11:52:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+2025.08.01 11:52:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:36 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:35 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:37 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:43 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:43 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:43 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:43 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:43 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:45 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:45 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:45 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:46 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:46 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:47 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:46 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:46 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:46 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:47 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:48 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:48 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:48 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:48 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:50 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:52:51 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:55:16 INFO  no build target found for C:\DATA\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:55:16 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:55:16 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:57:31 WARN  no build target for: C:\DATA\SCALA\hello-world\src\main\scala\Main.scala
+2025.08.01 11:57:31 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:57:31 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 11:57:31 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:05:18 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:05:18 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:05:20 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:05:23 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:43:52 INFO  Shutting down server
+2025.08.01 12:43:52 INFO  shutting down Metals
+2025.08.01 12:43:52 INFO  Shut down connection with build server.
+2025.08.01 12:43:52 INFO  Exiting server
+2025.08.01 12:44:13 INFO  Started: Metals version 1.6.0 in folders 'C:\DATA\SCALA' for client Visual Studio Code 1.102.2.
+2025.08.01 12:44:16 INFO  Attempting to connect to the build server...
+2025.08.01 12:44:16 INFO  Found a Bloop server running
+2025.08.01 12:44:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\DATA\SCALA\.metals\bsp.trace.json or C:\Users\dingo\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.08.01 12:44:17 INFO  time: Connected to build server in 0.67s
+2025.08.01 12:44:17 INFO  Connected to Build server: Bloop v2.0.10
+2025.08.01 12:44:16 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.08.01 12:44:16 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.08.01 12:44:16 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.08.01 12:44:16 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.08.01 12:44:16 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\DATA\SCALA\.metals\.reports\bloop\2025-07-28\r_Empty build targets...._11-37-45-150.md")
+2025.08.01 12:44:17 INFO  time: Imported build in 0.11s
+2025.08.01 12:44:25 INFO  time: indexed workspace in 7.96s
+2025.08.01 12:44:25 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala
+2025.08.01 12:44:25 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala
+2025.08.01 12:44:25 WARN  no build target for: C:\DATA\SCALA\hello-world\src\main\scala\Main.scala
+2025.08.01 12:44:25 WARN  no build target for: C:\DATA\SCALA\hello-world\build.sbt
+2025.08.01 12:44:25 WARN  no build target for: C:\DATA\SCALA\hello-world\src\main\scala\Main.scala
+2025.08.01 12:44:25 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala
+2025.08.01 12:44:25 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala
+2025.08.01 12:44:25 WARN  no build target for: C:\DATA\SCALA\hello-world\build.sbt
+2025.08.01 12:44:25 INFO  no build target found for C:\DATA\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:44:27 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:44:28 WARN  no build target for: C:\DATA\SCALA\hello-world\src\main\scala\Main.scala
+2025.08.01 12:44:28 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:44:28 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:44:30 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:44:30 INFO  time: code lens generation in 1.41s
+2025.08.01 12:44:30 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:44:30 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:44:30 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala
+2025.08.01 12:44:30 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:44:30 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\test\scala\com\example\CubeCalculatorTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:44:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:44:33 WARN  no build target for: C:\DATA\SCALA\hello-world\src\main\scala\Main.scala
+2025.08.01 12:44:33 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:44:34 WARN  no build target for: C:\DATA\SCALA\hello-world\build.sbt
+2025.08.01 12:44:34 INFO  no build target found for C:\DATA\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:44:34 WARN  Could not find semantic tokens for: file:///C:/DATA/SCALA/hello-world/build.sbt
+2025.08.01 12:44:41 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:44:41 WARN  no build target for: C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala
+2025.08.01 12:44:41 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:44:41 INFO  no build target found for C:\DATA\SCALA\scalatest-example\src\main\scala\com\example\CubeCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:44:45 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 12:44:45 WARN  no build target for: C:\DATA\SCALA\hello-world\src\main\scala\Main.scala
+2025.08.01 12:44:45 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 15:28:40 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 15:28:40 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 15:35:29 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 15:49:16 WARN  no build target for: C:\DATA\SCALA\hello-world\src\main\scala\Main.scala
+2025.08.01 15:49:16 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:17:57 INFO  no build target found for C:\DATA\SCALA\spark-example\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:17:57 WARN  no build target for: C:\DATA\SCALA\spark-example\build.sbt
+2025.08.01 16:17:57 INFO  no build target found for C:\DATA\SCALA\spark-example\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:17:57 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:17:57 WARN  no build target for: C:\DATA\SCALA\spark-example\build.sbt
+2025.08.01 16:17:57 INFO  no build target found for C:\DATA\SCALA\spark-example\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:17:58 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:18:11 WARN  no build target for: C:\DATA\SCALA\spark-example\src\main\scala\SparkExample.scala
+2025.08.01 16:18:11 INFO  no build target found for C:\DATA\SCALA\spark-example\src\main\scala\SparkExample.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:18:11 INFO  no build target found for C:\DATA\SCALA\spark-example\src\main\scala\SparkExample.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:18:11 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:18:11 WARN  no build target for: C:\DATA\SCALA\spark-example\src\main\scala\SparkExample.scala
+2025.08.01 16:18:11 INFO  no build target found for C:\DATA\SCALA\spark-example\src\main\scala\SparkExample.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:18:11 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:18:16 INFO  no build target found for C:\DATA\SCALA\spark-example\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:18:16 WARN  no build target for: C:\DATA\SCALA\spark-example\project\plugins.sbt
+2025.08.01 16:18:17 INFO  no build target found for C:\DATA\SCALA\spark-example\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:18:16 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:18:16 INFO  no build target found for C:\DATA\SCALA\spark-example\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:18:17 WARN  no build target for: C:\DATA\SCALA\spark-example\project\plugins.sbt
+2025.08.01 16:18:17 INFO  no build target found for C:\DATA\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:20:35 INFO  no build target found for C:\DATA\SCALA\spark-example\src\main\scala\SparkExample.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:20:35 WARN  no build target for: C:\DATA\SCALA\spark-example\src\main\scala\SparkExample.scala
+2025.08.01 16:20:35 INFO  no build target found for C:\DATA\SCALA\spark-example\src\main\scala\SparkExample.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:20:39 INFO  no build target found for C:\DATA\SCALA\spark-example\src\main\scala\SparkExample.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:26:09 INFO  no build target found for C:\DATA\SCALA\spark-example\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:26:09 INFO  no build target found for C:\DATA\SCALA\spark-example\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:26:09 WARN  no build target for: C:\DATA\SCALA\spark-example\build.sbt
+2025.08.01 16:26:09 INFO  no build target found for C:\DATA\SCALA\spark-example\src\main\scala\SparkExample.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:27:18 INFO  no build target found for C:\DATA\SCALA\spark-example\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:27:19 INFO  no build target found for C:\DATA\SCALA\spark-example\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 16:27:19 WARN  no build target for: C:\DATA\SCALA\spark-example\build.sbt
+2025.08.01 16:27:19 INFO  no build target found for C:\DATA\SCALA\spark-example\src\main\scala\SparkExample.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Aug 01, 2025 4:30:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.08.01 16:30:21 WARN  no build target for: C:\DATA\SCALA\hello-world\src\main\scala\Main.scala
+2025.08.01 16:30:21 INFO  no build target found for C:\DATA\SCALA\spark-example\src\main\scala\SparkExample.scala. Using presentation compiler with project's scala-library version: 3.3.6

@@ -1,0 +1,4 @@
+[debug] [scalatest-example-build] Classpath dependencies List()
+[debug] [scalatest-example-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scalatest-example-build' to 'C:\DATA\SCALA\scalatest-example\project\.bloop\scalatest-example-build.json'
+[success] Generated .bloop\scalatest-example-build.json
